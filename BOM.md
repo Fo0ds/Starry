@@ -14,10 +14,9 @@
 | --- | --- | --- | --- | --- | --- |
 | [Seeed Studio XIAO ESP32‑C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | main MCU | 1 | $4.99 | $4.99 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [MPU6050 6‑axis IMU module](https://www.adafruit.com/product/3886) | Sensor | 1 | $12.95 | $12.95 | [Adafruit](https://www.adafruit.com/product/3886) |
-| [DHT11 Temperature & Humidity Sensor](https://www.adafruit.com/product/386) | Temp Sensor | 1 | $5.00 | $5.00 | [Adafruit](https://www.adafruit.com/product/386) |
 | [0.96" OLED Display (I2C, 4‑pin)](https://www.adafruit.com/product/326) | Display | 1 | $17.50 | $17.50 | [Adafruit](https://www.adafruit.com/product/326) |
-| **Parts subtotal** | — | — | — | **$40.44** | — |
+| **Parts subtotal** | — | — | — | **$35.44** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$40.44** | — |
+| **Total** | — | — | — | **$35.44** | — |
 
-**$10.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$5.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
